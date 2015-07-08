@@ -1,6 +1,7 @@
 body {
 	background-color: #000;
 	color: blue;
+	min-width: 320px;
 }
 
 h1 {
